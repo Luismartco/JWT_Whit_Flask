@@ -2,8 +2,7 @@
 ## API con Flask y JWT
 
 ## Descripción
-
-Este repositorio contiene una API RESTful desarrollada con Flask que utiliza JSON Web Tokens (JWT) para la autenticación y autorización de usuarios. La API permite gestionar usuarios y realizar operaciones protegidas que requieren autenticación.
+Repositorio hecho para el trabajo investigativo para el curso de sistema distribuidos en el año 2024-2. Este repositorio contiene una API RESTful desarrollada con Flask que utiliza JSON Web Tokens (JWT) para la autenticación y autorización de usuarios. La API permite gestionar usuarios y realizar operaciones protegidas que requieren autenticación.
 
 ## Tecnologías
 
@@ -23,8 +22,7 @@ Este repositorio contiene una API RESTful desarrollada con Flask que utiliza JSO
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
+   git clone https://github.com/Luismartco/JWT_Whit_Flask.git
 
 2. Entorno virtual y actívalo
 
@@ -37,5 +35,6 @@ Este repositorio contiene una API RESTful desarrollada con Flask que utiliza JSO
     ```bash
     pip install -r requirements.txt
 
+salu2 ;3
 
     
